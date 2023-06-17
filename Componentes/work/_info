@@ -1,0 +1,375 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Lucas Pelario\Desktop\Organiacao_Arquitetura\Pipeline\Componentes
+Econtrol_unit
+Z1 w1685910155
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Lucas Pelario\Desktop\Organiacao_Arquitetura\Pipeline\Componentes
+Z6 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/control.vhd
+Z7 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/control.vhd
+l0
+L7
+VO3AhPXFP_1U1_KC<afWj61
+Z8 OL;C;10.1d;51
+32
+Z9 !s108 1685910162.659000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/control.vhd|
+Z11 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/control.vhd|
+Z12 o-work work
+Z13 tExplicit 1
+!s100 SF<Knbd0bUI@>`Pb[oFkT2
+!i10b 1
+Acontrol_unit_arch
+R2
+R3
+R4
+DEx4 work 12 control_unit 0 22 O3AhPXFP_1U1_KC<afWj61
+l29
+L19
+VD:DPPHd<aA6iYb3`R:?0H1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 eiFB>oI8J1:l^[33`<ke_0
+!i10b 1
+Emux2x1
+Z14 w1685913485
+R3
+R4
+R5
+Z15 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux2x1.vhd
+Z16 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux2x1.vhd
+l0
+L24
+V<_cVlac1UK2O495b9EWcS1
+R8
+32
+Z17 !s108 1685913558.085000
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux2x1.vhd|
+Z19 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux2x1.vhd|
+R12
+R13
+!s100 Z5X<1VCRLCbFjh7f203dj1
+!i10b 1
+Amux2x1_arch
+R3
+R4
+DEx4 work 6 mux2x1 0 22 <_cVlac1UK2O495b9EWcS1
+l40
+L38
+V2Tk4Bb[ncjZHgY17l:Jbk1
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 lL7c0>Bd0Ac_BM]G1V3>T3
+!i10b 1
+Emux4x1
+Z20 w1685913628
+R3
+R4
+R5
+Z21 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux4x1.vhd
+Z22 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux4x1.vhd
+l0
+L24
+V[9eLbj`;Bbk=hb`MRNKE@0
+R8
+32
+Z23 !s108 1685913649.847000
+Z24 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux4x1.vhd|
+Z25 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/mux4x1.vhd|
+R12
+R13
+!s100 WkZJjnU=05nGZiJCgV^<K0
+!i10b 1
+Amux4x1_arch
+R3
+R4
+DEx4 work 6 mux4x1 0 22 [9eLbj`;Bbk=hb`MRNKE@0
+l42
+L40
+Vje_Jc@6cIDD3^?Qg1QF2a2
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 ITOAX3m=_?gj2L01oeTzV1
+!i10b 1
+Eram
+Z26 w1685913686
+Z27 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+R2
+R3
+R4
+R5
+Z28 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ram.vhd
+Z29 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ram.vhd
+l0
+L30
+V5_2P_]PO25l^>PFVj?HFC3
+R8
+32
+Z30 !s108 1685913808.954000
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ram.vhd|
+Z32 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ram.vhd|
+R12
+R13
+!s100 [SWmR1JC5N0=:_]G;=5`k3
+!i10b 1
+Aram_arch
+R27
+R2
+R3
+R4
+DEx4 work 3 ram 0 22 5_2P_]PO25l^>PFVj?HFC3
+l54
+L48
+VTBzaQCWVT]R3g0PP_6[9@1
+R8
+32
+R30
+R31
+R32
+R12
+R13
+!s100 =BD10hJkHNQS^@60H;>j63
+!i10b 1
+Ereg
+Z33 w1685913836
+R3
+R4
+R5
+Z34 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg.vhd
+Z35 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg.vhd
+l0
+L25
+VN>jIIQ[kjGLVb=>3;djSR0
+R8
+32
+Z36 !s108 1685913863.681000
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg.vhd|
+Z38 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg.vhd|
+R12
+R13
+!s100 TH6UR^Q[9Z6c897`ji`fk3
+!i10b 1
+Areg_arch
+R3
+R4
+DEx4 work 3 reg 0 22 N>jIIQ[kjGLVb=>3;djSR0
+l48
+L42
+VbMmLK0;^g]M3oGKgW8hc<0
+R8
+32
+R36
+R37
+R38
+R12
+R13
+!s100 <HJUa>XXb9h?[<nddmOf>0
+!i10b 1
+Ereg_file
+Z39 w1685913958
+R2
+R3
+R4
+R5
+Z40 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg_file.vhd
+Z41 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg_file.vhd
+l0
+L25
+VeG_N]hKmaClnP]3KQL^X_2
+R8
+32
+Z42 !s108 1685913983.904000
+Z43 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg_file.vhd|
+Z44 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/reg_file.vhd|
+R12
+R13
+!s100 kLJ8P6jQO9h56Vej;k]bT1
+!i10b 1
+Areg_file
+R2
+R3
+R4
+DEx4 work 8 reg_file 0 22 eG_N]hKmaClnP]3KQL^X_2
+l52
+L44
+V`PTcL1E8[O;;<6HO1J5fS1
+R8
+32
+R42
+R43
+R44
+R12
+R13
+!s100 ImNCe;BKT;]`7K0aNlB>N3
+!i10b 1
+Erom
+Z45 w1685914050
+R27
+R2
+R3
+R4
+R5
+Z46 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/rom.vhd
+Z47 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/rom.vhd
+l0
+L30
+Vj9NU@NU`SKKQR^27KS2CP0
+R8
+32
+Z48 !s108 1685914153.566000
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/rom.vhd|
+Z50 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/rom.vhd|
+R12
+R13
+!s100 2lEl3TbA<KbS<H@nU4We]0
+!i10b 1
+Arom_arch
+R27
+R2
+R3
+R4
+DEx4 work 3 rom 0 22 j9NU@NU`SKKQR^27KS2CP0
+l50
+L44
+V]ZS3;YL8_e_AmMFdEN6mK3
+R8
+32
+R48
+R49
+R50
+R12
+R13
+!s100 zYA=oLTZR2Q725K?OVE8W1
+!i10b 1
+Esign_ext
+Z51 w1685914123
+R2
+R3
+R4
+R5
+Z52 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/sign_ext.vhd
+Z53 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/sign_ext.vhd
+l0
+L6
+VSU;]2Z8R=lAl[n1GOb>8`3
+!s100 ReD^c5kLR;cJWJd4:0XCB1
+R8
+32
+!i10b 1
+Z54 !s108 1685914153.656000
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/sign_ext.vhd|
+Z56 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/sign_ext.vhd|
+R12
+R13
+Asign_ext_arch
+R2
+R3
+R4
+DEx4 work 8 sign_ext 0 22 SU;]2Z8R=lAl[n1GOb>8`3
+l26
+L18
+V;SIlzg44kTFfh^;@CbZOh3
+!s100 zBXQLX767YS^;j4:5i[F_3
+R8
+32
+!i10b 1
+R54
+R55
+R56
+R12
+R13
+Eula
+Z57 w1685906941
+Z58 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+Z59 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R3
+R4
+R5
+Z60 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ULA.vhd
+Z61 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ULA.vhd
+l0
+L26
+VQ[=MJQ5k@iIZez^VJiImZ1
+R8
+32
+Z62 !s108 1685909883.747000
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ULA.vhd|
+Z64 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/ULA.vhd|
+R12
+R13
+!s100 WWo7Q64GCa1zozUZIXl9F3
+!i10b 1
+Aula
+R58
+R59
+R3
+R4
+DEx4 work 3 ula 0 22 Q[=MJQ5k@iIZez^VJiImZ1
+l54
+L46
+VlIn^L>95k]N8RWiLbd]6X3
+R8
+32
+R62
+R63
+R64
+R12
+R13
+!s100 <Y`mjGNe[f0jF310__]lN0
+!i10b 1
+Eula_control
+Z65 w1685907214
+R2
+R3
+R4
+R5
+Z66 8C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/alu_control.vhd
+Z67 FC:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/alu_control.vhd
+l0
+L6
+VWcWAOhf0zoo2V;VzbN]nl2
+R8
+32
+Z68 !s108 1685909904.463000
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/alu_control.vhd|
+Z70 !s107 C:/Users/Lucas Pelario/Desktop/Organiacao_Arquitetura/Pipeline/Componentes/alu_control.vhd|
+R12
+R13
+!s100 H[R_ma^5JP]cG:Nk?^7V51
+!i10b 1
+Aula_control_arch
+R2
+R3
+R4
+DEx4 work 11 ula_control 0 22 WcWAOhf0zoo2V;VzbN]nl2
+l32
+L19
+V=<[455>0hW>Cz8ZBgG;Qk0
+R8
+32
+R68
+R69
+R70
+R12
+R13
+!s100 JgXi;h^7:91ShiF2jXAJ61
+!i10b 1
